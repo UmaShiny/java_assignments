@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task71</string>
+    <string name="click_button_load">LOAD</string>
+    <string name="click_button_save">SAVE</string>
+    <string name="initial_path">PATH</string>
+    <string name="content">FILE NAME</string>
+</resources>

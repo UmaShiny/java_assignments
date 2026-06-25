@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Task83</string>
+    <string name="FileButtonName">File</string>
+    <string name="GoButtonName">Go</string>
+    <string name="InitialStatement">FileName</string>
+</resources>
